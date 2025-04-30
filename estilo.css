@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+body{ 
+    background-color: #17BEBB;
+    margin: 0%;
+ }
+header{
+    /*background-color: rgb(140, 61, 214);*/
+    width: 1000px;
+    height: 70px;
+    margin: auto;
+}
+
+nav{
+    /*background-color: rgb(72, 187, 72);*/
+    width: 290px;
+    height: 45px;
+    float: right;
+    padding: 25px 25px 0 90px;
+}
+#imglogo{
+  /*background-color: blue;*/
+    width: 400px;
+    height: 70px;
+}
+#logonome{
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px 0 0 0;
+}
+/*criandoumbanner*/
+#banner{
+    background-color: rgb(245, 221, 89);
+    background-image: url(../IMG/banner.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+
+/*sectino 01 sobre*/
+#conteinersobre{
+    /*background-color: pink;*/
+    width: 400px;
+    height: 70px;
+    margin: auto;
+}
+
+#txtsobre{
+    /*background-color: blue;*/
+    width: 600px;
+    height: 400px;
+    float: right;
+}
+#imgsobre{
+    /*background-color: chocolate;*/
+    width: 600px;
+    height: 400px;
+}
+#ajimgsobre{
+    width: 350px;
+    height: 200px;
+}
